@@ -65,6 +65,11 @@ public class BasePage {
 				
 	}
 	
-	
+	public static  int demomethod()
+	{
+		int sum=10+11;
+		System.out.println(sum);
+		return sum;
+	}
 	
 }
